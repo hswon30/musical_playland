@@ -1,5 +1,5 @@
-# Musical PlayLand :crystal_ball:
-Musical Web app  - an amateur idea  💡 - with high potential in future !
+# Musical PlayLand 🎵
+Interactive Musical Web app with creative playable features🎆
 
 # Architecture  :white_check_mark:
 (ALL) List of technologies, description of system architecture/application used for the project
