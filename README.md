@@ -54,5 +54,5 @@ Interactive Musical Web app with creative playable features🎆
 5. In the client folder, install the react word cloud package using the command: `npm install react-cloud --force`. Please note that the installation will need to be forced given that the package has a dependency on an older version of react (v16).
 6. In both the client and server folders on the command line, run `npm start`. The webpage should pop up momentarily after.
 
-<h4>Edit notes</h4>
+<h3>Edit notes</h3>
 The contents of this repository were copied from a private team repository containing sensitive private information. Due to security concerns, all commit history had to be rebased. The most efficient way to do so was to set up a brand new repository without the git history associated with the original project. 
