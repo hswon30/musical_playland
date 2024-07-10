@@ -1,0 +1,15 @@
+{
+  "short_name": "Musical Playland",
+  "name": "CIS 550 Project - Musical Playland",
+  "icons": [
+    {
+      "src": "musical-notes.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
