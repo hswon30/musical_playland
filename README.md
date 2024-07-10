@@ -1,7 +1,7 @@
 # Musical PlayLand 🎵
 Interactive Musical Web app with creative playable features🎆
 
-#Demonstration
+# Demonstration
 
 https://github.com/hswon30/musical_playland/assets/97964329/d4f7e20b-5d36-479e-b67b-0cd501e0e774
 
